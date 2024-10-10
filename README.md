@@ -54,44 +54,53 @@ AtliQ Grands, with a portfolio of multiple five-star hotels in India, has a 20-y
   Fact table : It will have the data about the bookings and transactions.
 
   ⁕ dim_date
-      → day_type
-      → date
-      → week mumber
+    - day_type 
+    - date
+    - week mumber
   
   ⁕ dim_hotel
-      → 8 different properties
-      → unique id for each property
-      → 2 categories business & luxury
-      → name of cities in which the properties are located
+    - 8 different properties
+    - unique id for each property
+    - 2 categories business & luxury
+    - name of cities in which the properties are located
       
    ⁕ dim_rooms
-      → class of the room (Standard ,Elite ,Premium ,Presidential)
-      → room id
+    - class of the room (Standard ,Elite ,Premium ,Presidential)
+    - room id
   
   ⁕ fact_bookings
-      → booking id
-      → property id
-      → booking date
-      → check in date
-      → check out date
-      → room category
-      → number of guests
-      → booking platform
-      → ratings given
-      → booking_status
-      → revenue generated
-      → revenue realized
+    - booking id
+    -property id
+    - booking date
+    - check in date
+    - check out date
+    - room category
+    - number of guests
+    - booking platform
+    - ratings given
+    - booking_status
+    - revenue generated
+    - revenue realized
   
    ⁕ fact_aggregated_bookings
-      → propert  id
-      → check in date
-      → room category
-      → successful bookings
-      → capacity
-
+    - propert  id
+    - check in date
+    - room category
+    - successful bookings
+    - capacity
+   
  ## Data Model
 
 - Data modeling is crucial and serves as the foundation of a report. All visuals are constructed based on the data model.
 - Inadequate data modeling can compromise the overall performance of a report.
 - In this project, we have followed star schema modeling method.
   <img src="https://github.com/usershanks/Hospitality-Data-Analytics/blob/main/Data_model.png" class="center">
+  
+ ### Dashboard View
+ ![hospitality_project](https://github.com/user-attachments/assets/6c4baf11-b7d2-47e9-a7d0-d04c0de01e65)
+
+## Project Outcome
+
+This report facilitates data-driven decision-making and assists in addressing the numerous 'why' questions that emerge from different scenarios.
+ 
+ 
