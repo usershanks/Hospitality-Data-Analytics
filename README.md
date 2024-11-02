@@ -12,25 +12,26 @@ AtliQ Grands, with a portfolio of multiple five-star hotels in India, has a 20-y
 
 ## Business related terms
 
--Revenue
--Total Bookings
--Total Capacity
--Total Succesful Bookings
--Occupancy %
--Average Rating
--Total cancelled bookings
--Cancellation %
--Total Checked Out
--Total no show bookings
--No Show rate %
--Booking % by Platform
--Booking % by Room class
--ADR --> Average Daily Rate 
--Realisation %
--RevPAR --> Revenue per Available Room
--DBRN --> Daily Booked Room Nights
--DSRN --> Daily Sellable Room Nights
--DURN --> Daily Utilized Room Nights
+- **Revenue**: Total income generated from bookings.
+- **Total Bookings**: Total number of bookings received.
+- **Total Capacity**: Maximum number of bookings the hotel can accommodate.
+- **Total Successful Bookings**: Total number of bookings that were completed successfully.
+- **Occupancy %**: Percentage of available rooms that are occupied.
+- **Average Rating**: Overall customer satisfaction rating of the hotel.
+- **Total Cancelled Bookings**: Total number of bookings that were cancelled.
+- **Cancellation %**: Percentage of total bookings that were cancelled.
+- **Total Checked Out**: Total number of guests who have checked out.
+- **Total No Show Bookings**: Total number of guests who did not show up for their reservation.
+- **No Show Rate %**: Percentage of bookings that resulted in no shows.
+- **Booking % by Platform**: Percentage of bookings made through various platforms (e.g., website, mobile app, third-party sites).
+- **Booking % by Room Class**: Percentage of bookings categorized by room types (e.g., standard, deluxe, suite).
+- **ADR**: Average Daily Rate - the average revenue earned per occupied room.
+- **Realisation %**: Percentage of potential revenue actually realized from bookings.
+- **RevPAR**: Revenue per Available Room - calculated by dividing total revenue by total available rooms.
+- **DBRN**: Daily Booked Room Nights - total number of room nights booked for a given day.
+- **DSRN**: Daily Sellable Room Nights - total number of room nights available for sale.
+- **DURN**: Daily Utilized Room Nights - total number of room nights occupied for a given day.
+
 
 ### Questions to ask before starting with dashboard
 
